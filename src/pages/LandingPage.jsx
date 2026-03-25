@@ -22,7 +22,7 @@ export default function LandingPage() {
             <span className="text-gradient">in minutes.</span>
           </h1>
           <p className="hero-subtitle">
-            Simply fill out a clean form and instability generate a professional printable PDF resume alongside a stunning personal portfolio website.
+            Simply fill out a clean form and instantly generate a professional printable PDF resume alongside a stunning personal portfolio website.
           </p>
           <div className="hero-actions">
             <Link to="/build" className="btn btn-primary btn-lg shine-effect">
